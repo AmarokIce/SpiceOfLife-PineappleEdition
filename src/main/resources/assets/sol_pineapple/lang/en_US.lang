@@ -1,0 +1,17 @@
+sol.meat.eat_veritable.message=You wish you were eating a piece of meat, but you took a bite of the grass.
+sol.veritable.eat_meat.message=You love to eat vegetables, and meat is too disgusting for you.
+sol.meal.too_fat.message=You're so fat that every bite is a burden for you.
+
+sol.meat_value.message=The meat value
+sol.meal_value.message=The meal value
+sol.veritable_value.message=The veritable and fruit value
+
+sol.meat.message=Carnivore
+sol.veritable.message=Vegan
+sol.fat.message=Overweight
+sol.health.message=Stay Healthy
+sol.no_state.message=None
+
+sol.meal_type.message=Meal
+sol.veritable_type.message=Veritable and Fruit
+sol.meat_type.message=Meat

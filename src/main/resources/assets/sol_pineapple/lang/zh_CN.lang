@@ -1,0 +1,17 @@
+sol.meat.eat_veritable.message=你希望你咬下去的是肉而不是草。
+sol.veritable.eat_meat.message=你喜欢素食，肉食使你感到恶心。
+sol.meal.too_fat.message=你太胖了，以至于每一口对你来说都是负担。
+
+sol.meat_value.message=肉类指数
+sol.meal_value.message=主食指数
+sol.veritable_value.message=蔬果指数
+
+sol.meat.message=肉食主义
+sol.veritable.message=素食主义
+sol.fat.message=超重
+sol.health.message=健康体质
+sol.no_state.message=无状态
+
+sol.meal_type.message=主食
+sol.veritable_type.message=蔬果
+sol.meat_type.message=肉类
